@@ -97,4 +97,14 @@ DriftSense_Submission/
 
 ## Contact / Team
 
-(Add your team name and members here)
+| Field | Details |
+|-------|---------|
+| **Team Name** | Quantized Minds |
+| **Member 1** | Bandari Govardhan – 24215a0409 |
+| **Member 2** | Pakala Karthik – 24215a0411 |
+| **Member 3** | Gandham Karunakar – 25215a0412 |
+| **College** | BV Raju Institute of Technology |
+| **Contact** | 6305557390 / 24215A0409@gmail.com |
+| **Guide** | Dr. U. Gnaneshwara Chary |
+| **Project** | Drift-Sense: Navigation-Error Recovery |
+| **Hackathon** | SEMICON / Applied Materials |

@@ -31,7 +31,6 @@ NCC measures how well the bright and dark patterns match, after removing average
 $$
 \text{NCC}(u,v)=\frac{\sum (T-\bar{T})(S_{uv}-\bar{S}_{uv})}{\sqrt{\sum (T-\bar{T})^{2}\cdot\sum (S_{uv}-\bar{S}_{uv})^{2}}}
 $$
-
 - **T** = Template (Reference shrunk 10×)
 - **Sᵤᵥ** = Search patch at position (u,v)
 - **T̄, S̄ᵤᵥ** = Average brightness

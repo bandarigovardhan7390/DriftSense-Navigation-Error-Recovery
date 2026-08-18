@@ -28,6 +28,7 @@ Slide the small template over the Search image. At every position we compute a s
 NCC measures how well the bright and dark patterns match, after removing average brightness. Lighting changes do not confuse it much.
 
 **Formula**
+
 $$
 \text{NCC}(u,v)=\frac{\sum (T-\bar{T})(S_{uv}-\bar{S}_{uv})}{\sqrt{\sum (T-\bar{T})^{2}\cdot\sum (S_{uv}-\bar{S}_{uv})^{2}}}
 $$
